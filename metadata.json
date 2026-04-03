@@ -1,0 +1,8 @@
+{
+  "name": "Pusat Khidmat DUN Galas",
+  "description": "Aplikasi rasmi Pusat Khidmat DUN Galas untuk memudahkan urusan rakyat, aduan, dan maklumat terkini.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
